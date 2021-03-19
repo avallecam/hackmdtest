@@ -6,6 +6,9 @@ description: View the slide with "Slide Mode".
 
 # Unleash the power!
 
+[![hackmd-github-sync-badge](https://hackmd.io/wfujuONYQ7-S-1yoqElN9A/badge)](https://hackmd.io/wfujuONYQ7-S-1yoqElN9A)
+
+
 <!-- Put the link to this slide here so people can follow -->
 slide: https://hackmd.io/p/template-Talk-slide
 
